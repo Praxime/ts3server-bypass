@@ -18,5 +18,5 @@ First of all, I have already made an ready-to-use batch script for this so you c
 ```
 4. You are ready to go, This will refuse & redirect all of those checking servers to your localhost, Try joining an unofficial Temaspeak server now.
 # ❤️ | Support
-Support me by giving a **little star** to this Repo.
+Support me by giving a **little star** to this Repo.\n
 You can donate me [here](https://coffeebede.com/praxime)(IRT)!
