@@ -11,6 +11,8 @@ First of all, I have already made an ready-to-use batch script for this so you c
 1. Open Notepad as administrator
 2. At the top bar of Notepad, Go to File, Open, and open this location as a file: `C:\Windows\System32\drivers\etc\hosts`
 3. Add a blank line at the end of the hosts file and paste this:
-```127.0.0.1 accounting.teamspeak.com```
-```127.0.0.1 blacklist.teamspeak.com```
-```127.0.0.1 blacklist2.teamspeak.com```
+```
+127.0.0.1 accounting.teamspeak.com
+127.0.0.1 blacklist.teamspeak.com
+127.0.0.1 blacklist2.teamspeak.com
+```
